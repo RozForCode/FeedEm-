@@ -1,0 +1,27 @@
+[Libraries]
+[Libraries]/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Unity generated
+Library/
+sysinfo.txt
+
+# Other
+*.pidb
+*.booproj
